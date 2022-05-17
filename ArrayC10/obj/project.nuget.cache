@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xrf/GCNnjPm116cqytp47+niJkh5+jRjAJyfJLF0r61LcwM9ZeK+lWl5hYM7yE8R4K/vfyUzuN19Lhm3d8xTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Escritorio\\programacion2022\\programacion2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
